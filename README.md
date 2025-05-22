@@ -1,12 +1,14 @@
-# To-Do List CLI App (Python)
+# 📝 Advanced To-Do List CLI App (Python)
 
-A simple command-line To-Do List application in Python. Supports:
-- Adding tasks
-- Viewing tasks
-- Deleting tasks
-- Saves tasks in `tasks.txt`
+A powerful command-line To-Do List application built with Python.
+
+## Features
+- Add tasks with due dates
+- View tasks with status (✔️ / ❌)
+- Mark tasks as completed/incomplete
+- Delete tasks
+- Save/load tasks using JSON
 
 ## How to Run
-
 
 python todo.py
